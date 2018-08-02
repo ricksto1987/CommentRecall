@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommentRecall", "CommentRecall\CommentRecall.csproj", "{7AE7AF34-61FB-49FF-86A3-8959D00F9E59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommentAdornment", "CommentAdornment\CommentAdornment.csproj", "{45011BB3-4E3D-48A2-BB9E-9840565F0EE6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AE7AF34-61FB-49FF-86A3-8959D00F9E59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AE7AF34-61FB-49FF-86A3-8959D00F9E59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AE7AF34-61FB-49FF-86A3-8959D00F9E59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AE7AF34-61FB-49FF-86A3-8959D00F9E59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45011BB3-4E3D-48A2-BB9E-9840565F0EE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45011BB3-4E3D-48A2-BB9E-9840565F0EE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45011BB3-4E3D-48A2-BB9E-9840565F0EE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45011BB3-4E3D-48A2-BB9E-9840565F0EE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {87B1CE13-496C-46BF-9358-B01269468BB1}
+	EndGlobalSection
+EndGlobal
